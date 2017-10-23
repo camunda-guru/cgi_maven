@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=com.cgi.banking  -DartifactId=BankingAppln -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false 
