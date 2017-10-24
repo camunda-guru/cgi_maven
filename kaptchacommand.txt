@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=c:\kaptcha-2.3..2.jar -DgroupId=com.google.code -DartifactId=kaptcha -Dversion=2.3 -Dpackaging=jar
