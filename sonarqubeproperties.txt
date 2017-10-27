@@ -1,0 +1,6 @@
+#required metadata
+Sonar.ProjectKey=HSBCProject
+Sonar.ProjectName=HSBCProject
+Sonar.ProjectVersion=1.0
+#path to source directory
+Sonar.Sources=/var/lib/jenkins/worspace/$JOB_NAME/HSBCProject/src
